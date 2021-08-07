@@ -1,4 +1,4 @@
-# Environmental Engineering
+# Tratamento de Efluentes
 Trabalhos de iniciação científica que estudam o uso de resíduos agroindustriais (melaço de soja e glicerol de biodiesel) para produção de biogás. Ambos trabalhos estudam o uso dos resíduos misturados com água e alimentados em reatores biológicos para produzirem biogás e reduzirem a quantidade de matéria orgânica no meio, de modo a permitir um tratamento biológico para esse efluente e que ainda possua valor econômico.
 
 >Orientador: Prof Dr. Arnaldo Sarti
