@@ -1,6 +1,6 @@
 # Aspen Projects
 
-Aspen plus project simulations 
+Aspen plus v10 projects and other aspen related files (such as AEA, APEA, EDR)
 
 ## Content list
 

@@ -1,14 +1,14 @@
-**readme** for the hydrosterefication
+# Hydroesterfication
 
-> This process is related to my scientific initiation, where the goal is to simulate a process to produce biodiesel via the hydrosterification reactions.
+This process is related to my scientific initiation, where the goal is to simulate a process to produce biodiesel via the hydroesterefication reactions.
 
 
 
-The basic process contains the following reactions that must be modeled
+The process is made up of two base reactions, the hydrolysis and the hydroesterefication
 
 ```python
-1 - Hydrolysis
-	Water + TAG --> FA + Glycerol
+1 - Hydrolysis reaction
+	Water + TAG --> FFA + Glycerol
 ```
 
 ```
@@ -26,7 +26,27 @@ Base literature that is the reference for general ideas of the process
 
 
 
-## Steps
+## Directories
 
-Steps that are involved in the making of the process
+These are the directories that compose this study
+
+**model_and_substance_selection**
+
+> The goal of this section is to select the suited substances and the thermodinamic model
+
+**plant_design**
+
+> This section objective is to produce the flowsheet of the process and implement recicles streams
+
+**energy_analysis**
+
+> This section objective is to produce an energy study and improvements regarding to heat integration
+
+**economic_evaluation**
+
+> This section objective is to produce an economic evaluation of the process
+
+
+
+
 

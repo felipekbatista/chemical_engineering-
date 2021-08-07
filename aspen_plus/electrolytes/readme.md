@@ -1,6 +1,8 @@
-readme for the electrolytes
+# Solvay process
 
 This process studies the use of the electrolyte model for producing sodium bicarbonate via solvay process
+
+
 
 
 
@@ -13,7 +15,9 @@ Literature used
 
 Files
 
-- relatorio_producao_amonia_acido_nitrico
+- simulation
+
+- log
 
   
 
