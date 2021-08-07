@@ -4,10 +4,6 @@ This repository contains projects that are related to my graduation course.
 
 I did this so that I could make public the projects that I have developed during graduation and I find relevant to show 
 
-change for test
-
-change for test 2
-
 ## Content
 
 - Ammonia and nitric acid production processes 
