@@ -70,8 +70,12 @@ Used in the hydroesterefication reaction, it is present in the reactor with FFA 
 
 The ternary diagrams are used for phase split analysis. The following components are tested with different methods.
 
-- TAG + water + FFA
-- TAG + FFA + glycerol
-- FFA + water + glycerol
-- FFA + methanol + water
-- FFA + ester + water
+1) TAG + water + FFA
+
+2. TAG + FFA + glycerol
+
+3. FFA + water + glycerol
+
+4. FFA + methanol + water
+
+5. FFA + ester + water
