@@ -221,11 +221,32 @@ The outlet stream did not resulted in NaHCO3(s) production, but, the following s
 
 Absorption column is not converging in mass balance.
 
-The absorption column is at some extent working, providing absorbed ammonia to outlet bottom products.
+The absorption column is at some extent working, providing absorbed ammonia to outlet bottom products, though it is in mass inbalance.
 
-
+The HCL presented problems with enthalpy when mixed with water and my guess is that it also responsible for the absorption column problem
 
 filesave: sodium_bicarbonate-105
+
+
+
+**113**
+
+Since HCL presented problem with enthalpy and T-101 had mass balance problems (also HCL was leaving in TOP), I decided to check the HCL component. Since this is an electrolyte model, HCL has a dissociation equation. I did check it and it was an equilibrium equiation, not a dissociation, so I deleted the equilibrium and replaced it for a dissociation equation. 
+
+- T-101 is in mass balance and NH4+ ions are present in stoichiometricall relation with NH4+
+- HCL streams are now non-volatile, so it throws a problem about it
+
+
+
+**114**
+
+Add T-102, the solvay tower with 20 stages
+
+produced NaHCO3-s   =D 
+
+file 
+
+- _107
 
 
 
