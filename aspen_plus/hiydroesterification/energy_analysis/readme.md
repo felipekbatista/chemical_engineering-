@@ -4,9 +4,20 @@ The energy analysis of the hydroesterification process is in the file AEA_1.
 
 ## AEA 1
 
-Open the file, on the left pane click APLUS_Import. Several scenarios of optimization are in the file, all advances of Scenario 1. The scenarios versions are new heat exchangers. Each Scenario has a design optimization.
+Open the file, on the left pane click APLUS_Import. Several scenarios of optimization are in the file, all advances of Scenario 1. The scenarios versions are new heat exchangers. 
 
+Each Scenario has a design optimization.
 
+## Files
+
+The files located in image directory are layout prints of
+
+- no integration (HEN_101)
+- integration (HEN_102)
+
+They have a simple layout of the streams, a streams with pinch line and the network analysis parameters for each one. 
+
+## Scenarios
 
 ### Scenario 1
 
@@ -55,13 +66,13 @@ The best results found was **Scenario 1.6 A_Design8**, with the following Descri
 
 **Network Cost Indexes**
 
-| Parameter  | Index     |
-| ---------- | --------- |
-| Heating    | 0,01669   |
-| Cooling    | -0,006569 |
-| Operating  | 0,01012   |
-| Capital    | 235.000   |
-| Total Cost | 0,01208   |
+| Parameter           | Index     |
+| ------------------- | --------- |
+| Heating (cost/s)    | 0,01669   |
+| Cooling (cost/s)    | -0,006569 |
+| Operating (cost/s)  | 0,01012   |
+| Capital (cost/s)    | 235.000   |
+| Total Cost (cost/s) | 0,01208   |
 
 **Network Performance**
 
@@ -74,15 +85,6 @@ The best results found was **Scenario 1.6 A_Design8**, with the following Descri
 | Total Area (m2)  | 318,5      |
 
 
-
-## Files
-
-The files bellow are a print of the layout of the proposed heat integration, A_Design8. One file is the integration without the pinch line and the other is the same integration but with a pinch line.
-
-````
-AEA_HEN_integration_no_pinch.pdf
-AEA_HEN_integration_pinch.pdf
-````
 
 
 
