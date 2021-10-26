@@ -36,7 +36,7 @@ Trabalhos de iniciação científica que estudam o uso de resíduos agroindustri
 
 Esquema dos reatores utilizados no experimento.
 
-<img src="C:\Users\user\Desktop\repositorios\engenharia_quimica\chemical_engineering-\environmental_engineering_\imagens\imagem 201.PNG" alt="reator" style="zoom:80%;" />
+<img src="imagens\imagem 201.PNG" alt="reator" style="zoom:80%;" />
 
 
 
@@ -61,7 +61,7 @@ Esquema dos reatores utilizados no experimento.
 
 Esquema dos reatores utilizados no experimento. 
 
-<img src="C:\Users\user\Desktop\repositorios\engenharia_quimica\chemical_engineering-\environmental_engineering_\imagens\imagem 101.PNG" alt="reator" style="zoom: 80%;" />
+<img src="imagens\imagem 101.PNG" alt="reator" style="zoom: 80%;" />
 
 
 
