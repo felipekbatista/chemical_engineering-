@@ -1,13 +1,10 @@
-## Ammonia and Nitric Acid production processes
+## Processos de produção da amônia e ácido nítrico
 
-Report and presentation regarding process engineering related to ammonia and nitric acid production
+Apresentação sobre os processos de produção de amônia e ácido nítrico 
 
-**Class** Chemical Industry Processes
+**Disciplina:** Chemical Industry Processes
 
 **Professor:** Arnaldo Sarti
-
-
-It is in portuguese
 
 
 
