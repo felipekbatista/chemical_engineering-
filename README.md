@@ -8,20 +8,18 @@ I did this so that I could make public the projects that I have developed during
 
 - Ammonia and nitric acid production processes 
 
-  > This is a presentation and report I have made for a chemical engineering class that studies processes. 
+  > This is a presentation and report I have researched and written for a chemical engineering class that studies chemical processes. 
   >
   > Here the ammonia and nitric acid production processes are described with a process engineering overlook
 
 - Aspen plus files
 
-  > This contains my aspen projects , with descriptions and the simulation files. 
+  > This contains my aspen projects, with descriptions and the simulation files. 
   >
-  > There is also my third scientific initiantion file here
+  > Here is stored my third scientific initiation aspen file 
 
-- environmental engineering
+- Environmental engineering
 
-  > This contains my first and second scientific initiation. 
+  > This contains my first and second scientific initiation, which regards about biofuel production using liquid industrial efluents. 
   >
-  > On them, I've studied effluent treatment and biogas production via bioreactors
-
   
