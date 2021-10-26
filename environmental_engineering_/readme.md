@@ -32,6 +32,12 @@ Trabalhos de iniciação científica que estudam o uso de resíduos agroindustri
 - Painel de apresentação SEQ 2019
 - Artigo 
 
+**Reator**
+
+Esquema dos reatores utilizados no experimento.
+
+<img src="C:\Users\user\Desktop\repositorios\engenharia_quimica\chemical_engineering-\environmental_engineering_\imagens\imagem 201.PNG" alt="reator" style="zoom:80%;" />
+
 
 
 ## Tratamento de resíduos agroindustriais (glicerol e melaço de soja) em reator anaeróbio de leito fixo e pós tratamento aeróbio
@@ -51,7 +57,11 @@ Trabalhos de iniciação científica que estudam o uso de resíduos agroindustri
 - Resumo 
 - Painel de apresentação CIC 2019
 
+**Reator** 
 
+Esquema dos reatores utilizados no experimento. 
+
+<img src="C:\Users\user\Desktop\repositorios\engenharia_quimica\chemical_engineering-\environmental_engineering_\imagens\imagem 101.PNG" alt="reator" style="zoom: 80%;" />
 
 
 
